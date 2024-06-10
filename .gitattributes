@@ -1,0 +1,4 @@
+Level1_Upgrade_Attack.mov filter=lfs diff=lfs merge=lfs -text
+Level2_Upgrade_Speed.mov filter=lfs diff=lfs merge=lfs -text
+WriteItByYourself.mov filter=lfs diff=lfs merge=lfs -text
+Die.mov filter=lfs diff=lfs merge=lfs -text
